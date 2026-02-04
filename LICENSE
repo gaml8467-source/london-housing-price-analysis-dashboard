@@ -1,21 +1,95 @@
-MIT License
+#  London Houses Price Analysis Dashboard (Excel)
 
-Copyright (c) 2026 Aml Gamal
+An interactive Excel dashboard that analyzes London housing data to explore property prices, features, and value drivers using data cleaning, feature engineering, KPIs, and visual analytics.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+---
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+##  Dataset
+Source: Kaggle  
+Rows: 1001  
+Columns: 18  
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+### Main Features:
+- Bedrooms
+- Bathrooms
+- Square Meters
+- Property Type
+- Interior Style
+- Heating Type
+- Materials
+- View
+- Price (£)
+
+---
+
+##  Data Preparation
+- Data Cleaning
+- Handled inconsistencies
+- Added new column:
+  - **Price per Square Meter** (Feature Engineering)
+
+---
+
+##  Analysis Steps
+- EDA (Exploratory Data Analysis)
+- KPIs
+- Dashboard Design
+- Excel formulas & calculations
+
+---
+
+##  KPIs & Insights
+The dashboard answers questions like:
+- How price changes with number of bedrooms
+- Which interior styles are more expensive
+- Impact of materials on house value
+- Heating type effect on pricing
+- View & property type influence on price
+
+---
+
+##  Dashboard Visualizations
+
+###  Price by Bedrooms
+
+::contentReference[oaicite:0]{index=0}
+
+
+###  Price by Interior Style
+
+::contentReference[oaicite:1]{index=1}
+
+
+###  Price by Materials
+
+::contentReference[oaicite:2]{index=2}
+
+
+###  Price by Heating Type
+
+::contentReference[oaicite:3]{index=3}
+
+
+###  Price by View & Property Type
+
+::contentReference[oaicite:4]{index=4}
+
+
+---
+
+##  Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Charts
+- Formulas
+- Dashboard Design
+
+---
+
+##  Project Goal
+Practice real estate data analysis and build an interactive dashboard to extract pricing insights that help understand what drives property value.
+
+---
+
+
+
