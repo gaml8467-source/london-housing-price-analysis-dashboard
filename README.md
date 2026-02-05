@@ -1,5 +1,9 @@
 #  London Houses Price Analysis Dashboard (Excel)
 
+<img src="https://raw.githubusercontent.com/gaml8467-source/london-housing-price-analysis-dashboard/refs/heads/main/london_house_execl/image/Dashboard.png" width="800">
+
+
+
 An interactive Excel dashboard that analyzes London housing data to explore property prices, features, and value drivers using data cleaning, feature engineering, KPIs, and visual analytics.
 
 ---
